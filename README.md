@@ -3,9 +3,9 @@
 
 ## **Descrição**  
 
-O Cantinho do Sabor é um aplicativo de pedidos de comida desenvolvido para proporcionar uma experiência prática aos clientes de restaurantes. A plataforma permite que os usuários explorem o cardápio digitalmente, escolham seus pratos, personalizem pedidos e finalizem a compra de forma rápida e eficiente.
+O Cantinho do Sabor é um aplicativo de pedidos de comida desenvolvido para proporcionar uma experiência prática aos clientes. A plataforma permite que os usuários explorem o cardápio digitalmente, escolham seus pratos, personalizem pedidos e finalizem a compra de forma rápida e eficiente.
 
-### **Funcionalidades principais:**  
+### **Funcionalidades**  
 Exibição do cardápio com imagens, descrições e preços.  
 Opção de selecionar e personalizar pedidos.  
 Visualização detalhada do pedido antes da finalização.  
