@@ -10,7 +10,7 @@ O Cantinho do Sabor é um aplicativo de pedidos de comida desenvolvido para prop
 O aplicativo **Cantinho do Sabor** é dividido em:  
 
 ### **Tela de Cadastro:**  
-Permite que o usuário insira suas informações, como nome, senha, e-mail e telefone, para criar uma conta e acessar o aplicativo.  
+Permite que o usuário insira suas informações, como nome,e-mail e telefone, para criar uma conta e acessar o aplicativo.  
 
 ### **Tela de Seleção do Restaurante:**  
 o usuário pode escolher a unidade onde deseja fazer o pedido.  
@@ -28,7 +28,7 @@ Exibe o resumo do pedido, as opções de pagamento e a confirmação da compra, 
 
 ## **Protótipo do Figma**  
 
-[Insira aqui o link do protótipo no Figma]  
+(https://www.figma.com/design/4SmNLp1Yb6bDAyfsq66cCC/Untitled?node-id=0-1&t=cRiJ6b9GdYzcm97W-1)  
 
 
 
